@@ -1,4 +1,4 @@
-name: RDP
+name: Win11
 
 on:
   workflow_dispatch:
